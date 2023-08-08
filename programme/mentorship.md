@@ -6,13 +6,13 @@ Speaker mentorship is a programme that was introduced a few years ago. Its purpo
 
 ## Contents
 1. [Speaker Mentorship Programme](#speaker-mentorship-programme)
-    a. [Format](#format)
-    b. [One-to-One Mentorship](#one-to-one-mentorship)
-    c. [Ask Me Anything about the CfP event](#ask-me-anything-about-the-cfp-session)
-    d. [First-Time Speaker’s Workshop](#first-time-speakers-workshop)
+    * [Format](#format)
+    * [One-to-One Mentorship](#one-to-one-mentorship)
+    * [Ask Me Anything about the CfP event](#ask-me-anything-about-the-cfp-session)
+    * [First-Time Speaker’s Workshop](#first-time-speakers-workshop)
 2. [Speaker Placement Programme](#speaker-placement-programme)
-	a. [Call for Organizers](#call-for-organizers)
-	b. [Mentee Event/Conference Matching](#mentee---eventconference-matching)
+    * [Call for Organizers](#call-for-organizers)
+	* [Mentee Event/Conference Matching](#mentee---eventconference-matching)
 3. [Questions](#questions)
 
 ## Speaker Mentorship Programme
