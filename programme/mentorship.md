@@ -27,7 +27,7 @@ The format of the Programme has 3 different events/processes. The main process i
 ### One to One Mentorship
 As mentioned this is the main process of the Programme and the goal is to match mentees with a mentor in order to get help to deliver their talk.
 Registration Form
-For registration we use the same form for mentees and mentors. We open registration for mentors two weeks before the CfP opens, in order to have a “pool of mentors” and on the day of CfP opening for mentees. The contents of the form are:
+For registration we use the same form for mentees and mentors. We open registration for mentors two weeks before the CfP opens, in order to have a "pool of mentors" and on the day of CfP opening for mentees. The contents of the form are:
 
 **Info**
 * Description of the Programme
@@ -79,6 +79,17 @@ During this event, we aim to make first-time speakers feel more comfortable by s
 We like to have a public format for the event, so we create a registration form and everyone is welcomed to join us. We only make sure that all accepted speakers are invited via email. The usual structure of the event is a panel discussion with some invited experienced speakers from the community, some past mentees who can share their experiences, and the programme team who can answer questions about programme or other topics.
 
 A recording of this session is here: https://youtu.be/79IaKHo7qEA
+
+### Timeline
+
+The full timeline of our speaker mentorship programme is:
+
+1. [1 Month before the start of the CfP] - Complete registration forms for mentees and mentors
+2. [2 Weeks before the start of the CfP] - Call for mentors
+3. [The Week when the CfP starts] - Call for mentees
+4. [One Week before the CfP closes] - Match Mentees and Mentors.
+5. [One Week before the CfP closes] - Host the Ask me Anything for the CfP session
+6. [One month before the Conference] - Host the First-time Speaker's workshop
 
 ## Speaker Placement Programme
 The speaker placement programme aims to connect past mentees to their local communities. That said, we are trying to engage more the people who needed help the past years and make them feel comfortable in contributing more.
