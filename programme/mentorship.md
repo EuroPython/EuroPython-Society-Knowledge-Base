@@ -11,8 +11,9 @@ Speaker mentorship is a programme that was introduced a few years ago. Its purpo
     c. [Ask Me Anything about the CfP event](#ask-me-anything-about-the-cfp-session)
     d. [First-Time Speaker’s Workshop](#first-time-speakers-workshop)
 2. [Speaker Placement Programme](#speaker-placement-programme)
-	a. Organizers Registration Form
-	b. Matching Mentees to Communities/Events
+	a. [Call for Organizers](#call-for-organizers)
+	b. [Mentee Event/Conference Matching](#mentee---eventconference-matching)
+3. [Questions](#questions)
 
 ## Speaker Mentorship Programme
 The main goal of this programme is to help every person who requires help to deliver their proposal, or if they are accepted as a speaker, their talk. In other words, we aim to make all people requesting mentorship, feel that they are not alone and they will have all the help they need.
